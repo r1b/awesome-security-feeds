@@ -1,7 +1,5 @@
 # awesome-security-feeds
 
-## General
-
 <table>
   <tr><th colspan="4">General</th></tr>
   <tr>
