@@ -1,7 +1,8 @@
 # awesome-security-feeds
 
-<table>
-  <h2>General</h2>
+## General
+
+<table style="width:100%">
   <tr>
     <th>Name</th>
     <th>Type</th>
@@ -38,7 +39,11 @@
     <td>Daily</td>
     <td>Mailing List</td>
   </tr>
-  <h2>Linux</h2>
+</table>
+
+## Linux
+
+<table style="width:100%">
   <tr>
     <th>Name</th>
     <th>Type</th>
@@ -57,7 +62,11 @@
     <td>Varies</td>
     <td>Mailing List</td>
   </tr>
-  <h2>Windows</h2>
+</table>
+
+## Windows
+
+<table style="width:100%">
   <tr>
     <th>Name</th>
     <th>Type</th>
@@ -76,7 +85,11 @@
     <td>Monthly</td>
     <td>Web</td>
   </tr>
-  <h2>Cloud</h2>
+</table>
+
+## Cloud
+
+<table style="width:100%">
   <tr>
     <th>Name</th>
     <th>Type</th>
