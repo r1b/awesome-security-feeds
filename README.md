@@ -2,7 +2,7 @@
 
 ## General
 
-<table style="width:100%">
+<table>
   <tr>
     <th>Name</th>
     <th>Type</th>
@@ -43,7 +43,7 @@
 
 ## Linux
 
-<table style="width:100%">
+<table>
   <tr>
     <th>Name</th>
     <th>Type</th>
@@ -66,7 +66,7 @@
 
 ## Windows
 
-<table style="width:100%">
+<table>
   <tr>
     <th>Name</th>
     <th>Type</th>
@@ -89,7 +89,7 @@
 
 ## Cloud
 
-<table style="width:100%">
+<table>
   <tr>
     <th>Name</th>
     <th>Type</th>
