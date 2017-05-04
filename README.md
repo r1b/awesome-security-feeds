@@ -2,32 +2,99 @@
 
 ## General
 
-| Name | Type | Frequency | Format |
-| :--- | :--- | :--- | :--- |
-| [Common Vulnerabilities and Exposures](https://cve.mitre.org/cve/) | Announce | Daily | Raw Data, Twitter, Web |
-| [United States Computer Emergency Readiness Team](https://www.us-cert.gov/mailing-lists-and-feeds) | Announce | Varies | Mailing List, RSS |
-| [Bugtraq](http://www.securityfocus.com/archive/1/description#0.3.1) | Discussion | Daily | Mailing List |
-| [OSS Security](http://www.openwall.com/lists/oss-security/) | Discussion | Daily | Mailing List |
-| [Full Disclosure](https://nmap.org/mailman/listinfo/fulldisclosure) | Discussion | Daily | Mailing List |
-
-## Linux
-
-| Name | Type | Frequency | Format |
-| :--- | :--- | :--- | :--- |
-| [Red Hat Security Announce](https://www.redhat.com/mailman/listinfo/rhsa-announce) | Announce | Varies | Mailing List |
-| [Ubuntu Security Announce](https://lists.ubuntu.com/mailman/listinfo/ubuntu-security-announce) | Announce | Varies | Mailing List |
-
-## Windows
-
-| Name | Type | Frequency | Format |
-| :--- | :--- | :--- | :--- |
-| [Microsoft Security Notification Service](https://technet.microsoft.com/en-us/security/dd252948.aspx) | Announce | Monthly | Mailing List |
-| [Microsoft Security Advisories](https://technet.microsoft.com/en-us/security/dd252948.aspx) | Announce | Varies | RSS |
-| [Microsoft Security Updates](https://technet.microsoft.com/en-us/security/bulletins.aspx) | Announce | Monthly | Web |
-
-## Cloud
-
-| Name | Type | Frequency | Format |
-| :--- | :--- | :--- | :--- |
-| [Amazon Linux AMI Security](https://alas.aws.amazon.com/) | Announce | Varies | RSS, Web |
-| [Amazon Security Bulletins](https://aws.amazon.com/security/security-bulletins/) | Announce | Varies | RSS, Web |
+<table>
+  <tr><th colspan="4">General</th></tr>
+  <tr>
+    <th>Name</th>
+    <th>Type</th>
+    <th>Frequency</th>
+    <th>Format</th>
+  </tr>
+  <tr>
+    <td><a href="https://cve.mitre.org/cve/">Common Vulnerabilities and Exposures</a></td>
+    <td>Announce</td>
+    <td>Daily</td>
+    <td>Raw Data, Twitter, Web</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.us-cert.gov/mailing-lists-and-feeds">United States Computer Emergency Readiness Team</a></td>
+    <td>Announce</td>
+    <td>Varies</td>
+    <td>Mailing List, RSS</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.securityfocus.com/archive/1/description#0.3.1">Bugtraq</a></td>
+    <td>Discussion</td>
+    <td>Daily</td>
+    <td>Mailing List</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.openwall.com/lists/oss-security/">OSS Security</a></td>
+    <td>Discussion</td>
+    <td>Daily</td>
+    <td>Mailing List</td>
+  </tr>
+  <tr>
+    <td><a href="https://nmap.org/mailman/listinfo/fulldisclosure">Full Disclosure</a></td>
+    <td>Discussion</td>
+    <td>Daily</td>
+    <td>Mailing List</td>
+  </tr>
+  <tr><th colspan="4">Linux</th></tr>
+  <tr>
+    <th>Name</th>
+    <th>Type</th>
+    <th>Frequency</th>
+    <th>Format</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.redhat.com/mailman/listinfo/rhsa-announce">Red Hat Security</a></td>
+    <td>Announce</td>
+    <td>Varies</td>
+    <td>Mailing List</td>
+  </tr>
+  <tr>
+    <td><a href="https://lists.ubuntu.com/mailman/listinfo/ubuntu-security-announce">Ubuntu Security</a></td>
+    <td>Announce</td>
+    <td>Varies</td>
+    <td>Mailing List</td>
+  </tr>
+  <tr><th colspan="4">Windows</th></tr>
+  <tr>
+    <th>Name</th>
+    <th>Type</th>
+    <th>Frequency</th>
+    <th>Format</th>
+  </tr>
+  <tr>
+    <td><a href="https://technet.microsoft.com/en-us/security/dd252948.aspx">Microsoft Security Notification Service</a></td>
+    <td>Announce</td>
+    <td>Monthly</td>
+    <td>Mailing List</td>
+  </tr>
+  <tr>
+    <td><a href="https://technet.microsoft.com/en-us/security/bulletins.aspx">Microsoft Security Updates</a></td>
+    <td>Announce</td>
+    <td>Monthly</td>
+    <td>Web</td>
+  </tr>
+  <tr><th colspan="4">Cloud</th></tr>
+  <tr>
+    <th>Name</th>
+    <th>Type</th>
+    <th>Frequency</th>
+    <th>Format</th>
+  </tr>
+  <tr>
+    <td><a href="https://alas.aws.amazon.com/">Amazon Linux AMI Security</a></td>
+    <td>Announce</td>
+    <td>Varies</td>
+    <td>RSS, Web</td>
+  </tr>
+  <tr>
+    <td><a href="https://aws.amazon.com/security/security-bulletins/">Amazon Security Bulletins</a></td>
+    <td>Announce</td>
+    <td>Varies</td>
+    <td>RSS, Web</td>
+  </tr>
+</table>
