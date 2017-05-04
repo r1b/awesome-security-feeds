@@ -8,7 +8,7 @@
 | [United States Computer Emergency Readiness Team](https://www.us-cert.gov/mailing-lists-and-feeds) | Announce | Varies | Mailing List, RSS |
 | [Bugtraq](http://www.securityfocus.com/archive/1/description#0.3.1) | Discussion | Daily | Mailing List |
 | [OSS Security](http://www.openwall.com/lists/oss-security/) | Discussion | Daily | Mailing List |
-| [Full Disclosure (FD)](https://nmap.org/mailman/listinfo/fulldisclosure) | Discussion | Daily | Mailing List |
+| [Full Disclosure](https://nmap.org/mailman/listinfo/fulldisclosure) | Discussion | Daily | Mailing List |
 
 ## Linux
 
